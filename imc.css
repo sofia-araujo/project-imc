@@ -30,6 +30,7 @@ input {
 #botao {
     background-color: rgb(94, 94, 252);
     color: white;
+    cursor: pointer;
 }
 
 #botao:hover {
